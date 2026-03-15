@@ -15,6 +15,17 @@ Hoje construo o ecossistema **CORTEX3**: empresas que pensam, aprendem e escalam
 - **Grupo +351** — Hub de negócios e joint ventures em Portugal
 - **Guard** — Equipamentos de artes marciais com impressão 3D
 
+## Projetos em Destaque
+
+| Projeto | Stack | Descrição |
+|---------|-------|-----------|
+| [**Cortex FC**](https://github.com/institutoveigacabral-maker/cortex-fc) | Next.js, Drizzle, Anthropic | Analytics de futebol com 7 agentes IA, multi-tenancy, RBAC |
+| [**Grupo +351**](https://github.com/institutoveigacabral-maker/grupo-351) | Next.js, Prisma, Stripe | Plataforma multi-sided para Portugal (site + portal + admin + CRM) |
+| [**Restaurant CRM**](https://github.com/institutoveigacabral-maker/restaurant-crm) | Next.js, Drizzle, Playwright | CRM para restaurante com gamificação e testes E2E |
+| [**Missão China HQ**](https://github.com/institutoveigacabral-maker/missao-china-hq) | React, Hono, CF Workers | Sistema de gestão de importação com 52 páginas |
+| [**CasaRão Luz**](https://github.com/institutoveigacabral-maker/casarao-luz) | Next.js, Drizzle, NextAuth | Gestão de iluminação arquitetural (NBR 8995-1) |
+| [**Mundo Rão**](https://github.com/institutoveigacabral-maker/mundao) | React, Hono, CF Workers | Super-app marketplace de delivery |
+
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -39,6 +50,11 @@ CORTEX3 ──┬── Grupo Rão (delivery, 200+ units)
            ├── Thalamus (governance)
            └── Long View (global hub)
 ```
+
+## Artigos
+
+- [Como Uso IA Para Construir 45 Produtos de Software em 2 Meses](https://gist.github.com/institutoveigacabral-maker/d487099d14e15561aa0df2ae389cf261)
+- [Arquitetura de Agentes IA com Anthropic SDK + Next.js](https://gist.github.com/institutoveigacabral-maker/03be66d59001bdd75cc482d42edb8e80)
 
 ## Livros
 
