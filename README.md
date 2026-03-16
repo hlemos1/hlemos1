@@ -1,55 +1,66 @@
 # Henrique Lemos
 
-**Co-founder @ Grupo Rão** · Rio de Janeiro, Brazil
+**Co-founder @ Grupo Rao** · Rio de Janeiro, Brazil
 
-Empreendedor serial com 12+ anos no setor de food delivery. Co-fundei o **Grupo Rão**, a maior rede de delivery do Brasil — 20+ marcas, 200+ unidades, 10 estados e Portugal.
+Empreendedor serial com 12+ anos no setor de food delivery. Co-fundei o **Grupo Rao**, a maior rede de delivery do Brasil — 20+ marcas, 200+ unidades, 10 estados e Portugal.
 
 Hoje construo o ecossistema **CORTEX3**: empresas que pensam, aprendem e escalam como redes neurais.
 
-## O que construo
+---
 
-- **Grupo Rão** — 200+ unidades de delivery, super-app Mundo Rão (800k+ pedidos)
-- **CORTEX3** — Arquitetura de negócios como rede neural sintética
-- **Nexial** — AI Visibility: posicionamento de marcas nas respostas da IA
-- **Missão China HQ** — Sistema de gestão de importação China-Brasil (52 páginas)
-- **Grupo +351** — Hub de negócios e joint ventures em Portugal
-- **Guard** — Equipamentos de artes marciais com impressão 3D
+## Numeros
+
+- **1.500+** testes automatizados
+- **15+** projetos ativos com CI/CD
+- **3** apps em producao (Vercel + Neon)
+- **100%** TypeScript
+
+---
 
 ## Projetos em Destaque
 
-| Projeto | Stack | Descrição |
-|---------|-------|-----------|
-| [**Cortex FC**](https://github.com/institutoveigacabral-maker/cortex-fc) | Next.js, Drizzle, Anthropic | Analytics de futebol com 7 agentes IA, multi-tenancy, RBAC |
-| [**Grupo +351**](https://github.com/institutoveigacabral-maker/grupo-351) | Next.js, Prisma, Stripe | Plataforma multi-sided para Portugal (site + portal + admin + CRM) |
-| [**Restaurant CRM**](https://github.com/institutoveigacabral-maker/restaurant-crm) | Next.js, Drizzle, Playwright | CRM para restaurante com gamificação e testes E2E |
-| [**Missão China HQ**](https://github.com/institutoveigacabral-maker/missao-china-hq) | React, Hono, CF Workers | Sistema de gestão de importação com 52 páginas |
-| [**CasaRão Luz**](https://github.com/institutoveigacabral-maker/casarao-luz) | Next.js, Drizzle, NextAuth | Gestão de iluminação arquitetural (NBR 8995-1) |
-| [**Mundo Rão**](https://github.com/institutoveigacabral-maker/mundao) | React, Hono, CF Workers | Super-app marketplace de delivery |
+| Projeto | Stack | Testes | Status |
+|---------|-------|--------|--------|
+| [**Cortex FC**](https://github.com/institutoveigacabral-maker/cortex-fc) | Next.js, Drizzle, Anthropic | 208 | [![CI](https://github.com/institutoveigacabral-maker/cortex-fc/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/cortex-fc/actions) |
+| [**Grupo +351**](https://github.com/institutoveigacabral-maker/grupo-351) | Next.js, Prisma, Stripe | 254 | [![CI](https://github.com/institutoveigacabral-maker/grupo-351/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/grupo-351/actions) |
+| [**Restaurant CRM**](https://github.com/institutoveigacabral-maker/restaurant-crm) | Next.js, Drizzle, Sentry | 352 | [![CI](https://github.com/institutoveigacabral-maker/restaurant-crm/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/restaurant-crm/actions) |
+| [**Missao China HQ**](https://github.com/institutoveigacabral-maker/missao-china-hq) | React, Hono, CF Workers | 89 | [![CI](https://github.com/institutoveigacabral-maker/missao-china-hq/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/missao-china-hq/actions) |
+| [**CasaRao Luz**](https://github.com/institutoveigacabral-maker/casarao-luz) | Next.js, Drizzle, NextAuth | 219 | [![CI](https://github.com/institutoveigacabral-maker/casarao-luz/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/casarao-luz/actions) |
+| [**Mundo Rao**](https://github.com/institutoveigacabral-maker/mundao) | React, Hono, CF Workers | 27 | [![CI](https://github.com/institutoveigacabral-maker/mundao/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/mundao/actions) |
 
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
 
 ## Ecossistema CORTEX3
 
 ```
-CORTEX3 ──┬── Grupo Rão (delivery, 200+ units)
-           ├── Mundo Rão (super-app, 800k+ orders)
+CORTEX3 ──┬── Grupo Rao (delivery, 200+ units)
+           ├── Mundo Rao (super-app, 800k+ orders)
            ├── NAIA (AI e-commerce infrastructure)
            ├── Nexial (AI Visibility)
-           ├── Missão China (import management)
+           ├── Missao China (import management)
            ├── Grupo +351 (Portugal hub)
            ├── Guard (martial arts gear)
            ├── Thalamus (governance)
            └── Long View (global hub)
 ```
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=institutoveigacabral-maker&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=institutoveigacabral-maker&layout=compact&theme=dark&hide_border=true)
 
 ## Artigos
 
@@ -58,7 +69,7 @@ CORTEX3 ──┬── Grupo Rão (delivery, 200+ units)
 
 ## Livros
 
-- **Delivery Milionário** — Como construir um império de delivery
+- **Delivery Milionario** — Como construir um imperio de delivery
 - **Cortex3** — Como construir empresas que pensam, aprendem e escalam como redes neurais
 
 ## Contato
