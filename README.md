@@ -62,12 +62,12 @@ All follow the same pattern: real problem, architecture defined before code, tes
 
 | System | What it solves | Stack | Status |
 |--------|---------------|-------|--------|
-| [**Restaurant CRM**](https://github.com/institutoveigacabral-maker/restaurant-crm) | Operational management for restaurants | Next.js, Drizzle, Sentry | [![CI](https://github.com/institutoveigacabral-maker/restaurant-crm/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/restaurant-crm/actions) |
-| [**Grupo +351**](https://github.com/institutoveigacabral-maker/grupo-351) | Business hub and joint ventures (Portugal) | Next.js, Prisma, Stripe | [![CI](https://github.com/institutoveigacabral-maker/grupo-351/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/grupo-351/actions) |
-| [**Cortex FC**](https://github.com/institutoveigacabral-maker/cortex-fc) | Sports analytics with 7 AI agents | Next.js, Drizzle, Anthropic | [![CI](https://github.com/institutoveigacabral-maker/cortex-fc/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/cortex-fc/actions) |
-| [**Missao China HQ**](https://github.com/institutoveigacabral-maker/missao-china-hq) | Supply chain China -> Brazil | React, Hono, CF Workers | [![CI](https://github.com/institutoveigacabral-maker/missao-china-hq/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/missao-china-hq/actions) |
-| [**CasaRao Luz**](https://github.com/institutoveigacabral-maker/casarao-luz) | Architectural lighting (NBR 8995-1) | Next.js, Drizzle, NextAuth | [![CI](https://github.com/institutoveigacabral-maker/casarao-luz/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/casarao-luz/actions) |
-| [**Mundo Rao**](https://github.com/institutoveigacabral-maker/mundao) | Super-app marketplace for delivery | React, Hono, CF Workers | [![CI](https://github.com/institutoveigacabral-maker/mundao/actions/workflows/ci.yml/badge.svg)](https://github.com/institutoveigacabral-maker/mundao/actions) |
+| [**Restaurant CRM**](https://github.com/hlemos1/restaurant-crm) | Operational management for restaurants | Next.js, Drizzle, Sentry | [![CI](https://github.com/hlemos1/restaurant-crm/actions/workflows/ci.yml/badge.svg)](https://github.com/hlemos1/restaurant-crm/actions) |
+| [**Grupo +351**](https://github.com/hlemos1/grupo-351) | Business hub and joint ventures (Portugal) | Next.js, Prisma, Stripe | [![CI](https://github.com/hlemos1/grupo-351/actions/workflows/ci.yml/badge.svg)](https://github.com/hlemos1/grupo-351/actions) |
+| [**Cortex FC**](https://github.com/hlemos1/cortex-fc) | Sports analytics with 7 AI agents | Next.js, Drizzle, Anthropic | [![CI](https://github.com/hlemos1/cortex-fc/actions/workflows/ci.yml/badge.svg)](https://github.com/hlemos1/cortex-fc/actions) |
+| [**Missao China HQ**](https://github.com/hlemos1/missao-china-hq) | Supply chain China -> Brazil | React, Hono, CF Workers | [![CI](https://github.com/hlemos1/missao-china-hq/actions/workflows/ci.yml/badge.svg)](https://github.com/hlemos1/missao-china-hq/actions) |
+| [**CasaRao Luz**](https://github.com/hlemos1/casarao-luz) | Architectural lighting (NBR 8995-1) | Next.js, Drizzle, NextAuth | [![CI](https://github.com/hlemos1/casarao-luz/actions/workflows/ci.yml/badge.svg)](https://github.com/hlemos1/casarao-luz/actions) |
+| [**Mundo Rao**](https://github.com/hlemos1/mundao) | Super-app marketplace for delivery | React, Hono, CF Workers | [![CI](https://github.com/hlemos1/mundao/actions/workflows/ci.yml/badge.svg)](https://github.com/hlemos1/mundao/actions) |
 
 ---
 
@@ -83,7 +83,7 @@ My role:
 I don't hide this.
 This is how modern systems will be built.
 
-> Full process documentation: [**ai-engineering-playbook**](https://github.com/institutoveigacabral-maker/ai-engineering-playbook)
+> Full process documentation: [**ai-engineering-playbook**](https://github.com/hlemos1/ai-engineering-playbook)
 
 ---
 
@@ -122,19 +122,19 @@ These aren't isolated projects. It's a connected ecosystem.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=institutoveigacabral-maker&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hlemos1&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=institutoveigacabral-maker&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlemos1&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## Articles
 
-- [How I Use AI to Build 45 Software Products in 2 Months](https://gist.github.com/institutoveigacabral-maker/d487099d14e15561aa0df2ae389cf261)
-- [AI Agent Architecture with Anthropic SDK + Next.js](https://gist.github.com/institutoveigacabral-maker/03be66d59001bdd75cc482d42edb8e80)
-- [How to Structure Multi-Tenancy with Drizzle ORM in Next.js](https://gist.github.com/institutoveigacabral-maker/c9985283270a276c947b17c0d0e0176c)
-- [Rate Limiting with Upstash Redis in Next.js App Router](https://gist.github.com/institutoveigacabral-maker/02a8ad58d4736e2ff60dcf21c66ef37f)
-- [Edge Computing with Cloudflare Workers + Hono: Practical Guide](https://gist.github.com/institutoveigacabral-maker/4ce9ad8578d8e5947f5e407da68d375f)
+- [How I Use AI to Build 45 Software Products in 2 Months](https://gist.github.com/hlemos1/d487099d14e15561aa0df2ae389cf261)
+- [AI Agent Architecture with Anthropic SDK + Next.js](https://gist.github.com/hlemos1/03be66d59001bdd75cc482d42edb8e80)
+- [How to Structure Multi-Tenancy with Drizzle ORM in Next.js](https://gist.github.com/hlemos1/c9985283270a276c947b17c0d0e0176c)
+- [Rate Limiting with Upstash Redis in Next.js App Router](https://gist.github.com/hlemos1/02a8ad58d4736e2ff60dcf21c66ef37f)
+- [Edge Computing with Cloudflare Workers + Hono: Practical Guide](https://gist.github.com/hlemos1/4ce9ad8578d8e5947f5e407da68d375f)
 
 ## Books
 
